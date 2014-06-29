@@ -1,7 +1,7 @@
 Doing Data Science
 ==================
 
-This is the example code than accompanies Doing Data Science by Cathy O'Neil and Rachel Schutt (9781449358655). 
+This is the example code that accompanies Doing Data Science by Cathy O'Neil and Rachel Schutt (9781449358655). 
 
 Click the Download Zip button to the right to download example code.
 
